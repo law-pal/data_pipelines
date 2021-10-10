@@ -1,6 +1,6 @@
 # Data_pipelines
 
-Datapipelines is a simple repository that follows the code examples from the O'Reilly book Data Pipelines Pocket Reference.
+Datapipelines is a simple repository that follows the code examples from the O'Reilly's book Data Pipelines Pocket Reference.
 
 I will be following the code examples from each chapter:
 1. `extract_mysql_full.py` extracts the data from an AWS MySQL database, creating a CSV file with the data, and the uploading the file to an S3 bucket.
